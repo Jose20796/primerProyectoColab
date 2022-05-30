@@ -13,7 +13,7 @@ public class PrimerProyecto {
         prueba.saludo();
         prueba.saludo();
         prueba.contar();
-        prueba.contar();
+        prueba.contar2();
         prueba.despedida();
         prueba.despedida();
     }
