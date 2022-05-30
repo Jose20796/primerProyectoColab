@@ -11,6 +11,7 @@ public class PrimerProyecto {
     public static void main(String[] args) {
         Prueba prueba=new Prueba();
         prueba.saludo();
+        prueba.saludo();
         prueba.contar();
         prueba.contar();
         prueba.despedida();
