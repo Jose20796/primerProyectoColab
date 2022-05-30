@@ -14,5 +14,6 @@ public class PrimerProyecto {
         prueba.contar();
         prueba.contar();
         prueba.despedida();
+        prueba.despedida();
     }
 }
