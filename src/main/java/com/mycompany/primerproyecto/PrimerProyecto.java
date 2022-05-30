@@ -12,6 +12,7 @@ public class PrimerProyecto {
         Prueba prueba=new Prueba();
         prueba.saludo();
         prueba.contar();
+        prueba.contar();
         prueba.despedida();
     }
 }
